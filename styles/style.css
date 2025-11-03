@@ -231,7 +231,6 @@ ol {
   display: flex;
   align-items: flex-start; 
   gap: 10px;
-  overflow: hidden;
 }
 
 .content__video-card-description-container {
