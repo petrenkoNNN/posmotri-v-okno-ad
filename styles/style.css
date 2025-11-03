@@ -76,7 +76,7 @@ ol {
 
 .content__list-container {
   position: relative;
-  height: 198px;
+  height: 298px;
   overflow-y: auto;
   grid-area: list;
 }
@@ -305,7 +305,6 @@ ol {
 }
 
 .title {
-  padding: 0 0 26px;
   color: #FFF;
   font-family: Oswald, sans-serif;
   font-weight: 700;
