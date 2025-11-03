@@ -9,8 +9,8 @@ html {
 }
 
 .page {
-   display: flex; /* МЕНЯЕМ grid на flex */
-  justify-content: center; /* ДОБАВЛЯЕМ */
+   display: flex; 
+  justify-content: center; 
   align-items: center;
   inline-size: 1200px;
   block-size: 100%;
