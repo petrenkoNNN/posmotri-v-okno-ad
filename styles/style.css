@@ -293,9 +293,11 @@ ol {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-size: 18px;
-  line-height: 0.9; 
-  -webkit-line-clamp: 4;
-  line-height: 1;
+  line-height: 0.9;
+  display: -webkit-box; 
+  -webkit-line-clamp: 4; 
+  -webkit-box-orient: vertical; 
+  overflow: hidden; 
 }
 
 .search-form__fieldset-title {
